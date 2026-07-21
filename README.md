@@ -64,6 +64,7 @@ I'm Basel Hossam Al-Shaquery, a Grade 10 student at IVY STEM International Schoo
 ## Honors & Awards
 
 * 1st Place, Tecnoxian World Robotics Championship (2026)
+* Selected Participant, International Festival of Youth 2026, Russia (2026)
 * Ranked 99th Worldwide, Purple Comet! Math Meet (2026)
 * Top 10 Globally, Moonshot Pirates (2025)
 * Top 10 Nationally, German Olympiad (B1)
@@ -89,8 +90,8 @@ I'm Basel Hossam Al-Shaquery, a Grade 10 student at IVY STEM International Schoo
 
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/basel-hossam-al-shaqwery
-* GitHub: github.com/Basel-ALShaquery
-* Email: [baselhossam273@gmail.com](mailto:baselhossam273@gmail.com)
+- [LinkedIn](https://linkedin.com/in/basel-hossam-al-shaqwery)
+- [GitHub](https://github.com/Basel-ALShaquery)
+- Email: baselhossam273@gmail.com 
 
 > "Building technology that creates meaningful impact."
